@@ -8,7 +8,9 @@
 
 html {
   scroll-behavior: smooth;
+  background-color: #0e1624;
 }
+
 
 .custom-font {
   font-family: 'Nunito', sans-serif;
@@ -19,11 +21,18 @@ html {
 }
 
 .late-gray-bg {
-  background-color: #23282f;
+  background-color: #0e1624;
 }
+
 
 .font-light {
   color: #fcfcfc;
+  opacity: 0.8;
+}
+.herenow{
+  color: #fcfcfc;
+  font-size: 25px;
+  opacity: 0.8;
 }
 
 .title {
@@ -39,7 +48,7 @@ html {
 }
 
 .title-underline {
-  border-bottom: 10px solid #6bff77;
+  border-bottom: 3px solid #6bff77;
 }
 
 .w-full {
@@ -63,7 +72,7 @@ html {
 }
 
 .navbar-menu {
-  background-color: #23282f;
+  background-color: #0e1624;
 }
 
 .mobile-menu {
